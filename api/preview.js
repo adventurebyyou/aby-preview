@@ -110,7 +110,7 @@ const PAGES = {
     path: "/destinations/israel",
     title: "Luxury Travel to Israel | Adventure By You",
     description: "Luxury Israel travel \u2014 Jerusalem, Tel Aviv, and the Dead Sea, woven into one itinerary. Kosher-aware planning and private aviation access, start to finish.",
-    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&h=630&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1643801512514-e05e25854abb?q=80&w=1200&h=630&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   'jet-charter': {
     path: "/jet-charter",
